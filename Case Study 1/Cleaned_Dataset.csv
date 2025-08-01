@@ -1,0 +1,253 @@
+Metric,Day,Value,Metric_Type
+Total Orders,1,94817.0,Orders
+Completed Orders,1,93386.0,Orders
+Basket Size,1,494.75993189557323,Basket
+Percent Promo Orders,1,0.11293984108967083,Orders
+Average Promo Value,1,84.0,Promotion
+Basket Size of Promo Orders,1,540.0,Orders
+Basket Size of Non-Promo Orders,1,489.0,Orders
+Average Delivery TIme (mins),1,42.04,Other
+Average Delivery Distance,1,3.99,Other
+Total Orders,2,95700.0,Orders
+Completed Orders,2,94750.0,Orders
+Basket Size,2,484.7836411609499,Basket
+Percent Promo Orders,2,0.13192612137203166,Orders
+Average Promo Value,2,75.0,Promotion
+Basket Size of Promo Orders,2,536.0,Orders
+Basket Size of Non-Promo Orders,2,477.0,Orders
+Average Delivery TIme (mins),2,42.8,Other
+Average Delivery Distance,2,3.68,Other
+Total Orders,3,93350.0,Orders
+Completed Orders,3,91950.0,Orders
+Basket Size,3,495.768352365416,Basket
+Percent Promo Orders,3,0.11419249592169657,Orders
+Average Promo Value,3,79.0,Promotion
+Basket Size of Promo Orders,3,525.0,Orders
+Basket Size of Non-Promo Orders,3,492.0,Orders
+Average Delivery TIme (mins),3,42.72,Other
+Average Delivery Distance,3,3.84,Other
+Total Orders,4,94000.0,Orders
+Completed Orders,4,92400.0,Orders
+Basket Size,4,482.4285714285714,Basket
+Percent Promo Orders,4,0.11904761904761904,Orders
+Average Promo Value,4,84.0,Promotion
+Basket Size of Promo Orders,4,530.0,Orders
+Basket Size of Non-Promo Orders,4,476.0,Orders
+Average Delivery TIme (mins),4,41.88,Other
+Average Delivery Distance,4,4.0,Other
+Total Orders,5,99050.0,Orders
+Completed Orders,5,97150.0,Orders
+Basket Size,5,497.83067421513124,Basket
+Percent Promo Orders,5,0.12197632527020072,Orders
+Average Promo Value,5,77.0,Promotion
+Basket Size of Promo Orders,5,547.0,Orders
+Basket Size of Non-Promo Orders,5,491.0,Orders
+Average Delivery TIme (mins),5,40.97,Other
+Average Delivery Distance,5,3.8,Other
+Total Orders,6,102250.0,Orders
+Completed Orders,6,101450.0,Orders
+Basket Size,6,496.81172991621486,Basket
+Percent Promo Orders,6,0.13208477082306555,Orders
+Average Promo Value,6,84.0,Promotion
+Basket Size of Promo Orders,6,535.0,Orders
+Basket Size of Non-Promo Orders,6,491.0,Orders
+Average Delivery TIme (mins),6,41.69,Other
+Average Delivery Distance,6,4.0,Other
+Total Orders,7,99350.0,Orders
+Completed Orders,7,97650.0,Orders
+Basket Size,7,503.82411674347156,Basket
+Percent Promo Orders,7,0.11213517665130568,Orders
+Average Promo Value,7,78.0,Promotion
+Basket Size of Promo Orders,7,544.0,Orders
+Basket Size of Non-Promo Orders,7,498.75,Orders
+Average Delivery TIme (mins),7,42.74,Other
+Average Delivery Distance,7,3.7,Other
+Total Orders,8,107650.0,Orders
+Completed Orders,8,105700.0,Orders
+Basket Size,8,509.8822327341533,Basket
+Percent Promo Orders,8,0.21286660359508042,Orders
+Average Promo Value,8,82.0,Promotion
+Basket Size of Promo Orders,8,534.0,Orders
+Basket Size of Non-Promo Orders,8,503.36,Orders
+Average Delivery TIme (mins),8,41.25,Other
+Average Delivery Distance,8,3.75,Other
+Total Orders,9,119800.0,Orders
+Completed Orders,9,117500.0,Orders
+Basket Size,9,500.2105276595745,Basket
+Percent Promo Orders,9,0.24212765957446808,Orders
+Average Promo Value,9,80.0,Promotion
+Basket Size of Promo Orders,9,543.0,Orders
+Basket Size of Non-Promo Orders,9,486.54,Orders
+Average Delivery TIme (mins),9,40.36,Other
+Average Delivery Distance,9,3.76,Other
+Total Orders,10,115850.0,Orders
+Completed Orders,10,114000.0,Orders
+Basket Size,10,510.06733333333335,Basket
+Percent Promo Orders,10,0.26403508771929823,Orders
+Average Promo Value,10,77.0,Promotion
+Basket Size of Promo Orders,10,533.0,Orders
+Basket Size of Non-Promo Orders,10,501.84000000000003,Orders
+Average Delivery TIme (mins),10,42.87,Other
+Average Delivery Distance,10,3.67,Other
+Total Orders,11,112000.0,Orders
+Completed Orders,11,110900.0,Orders
+Basket Size,11,505.40169522091975,Basket
+Percent Promo Orders,11,0.21911632100991885,Orders
+Average Promo Value,11,78.0,Promotion
+Basket Size of Promo Orders,11,529.0,Orders
+Basket Size of Non-Promo Orders,11,498.78000000000003,Orders
+Average Delivery TIme (mins),11,42.76,Other
+Average Delivery Distance,11,3.98,Other
+Total Orders,12,122450.0,Orders
+Completed Orders,12,121450.0,Orders
+Basket Size,12,498.5146150679292,Basket
+Percent Promo Orders,12,0.27212844792095514,Orders
+Average Promo Value,12,77.0,Promotion
+Basket Size of Promo Orders,12,536.0,Orders
+Basket Size of Non-Promo Orders,12,484.5,Orders
+Average Delivery TIme (mins),12,40.76,Other
+Average Delivery Distance,12,3.84,Other
+Total Orders,13,126950.0,Orders
+Completed Orders,13,124800.0,Orders
+Basket Size,13,493.6981169871795,Basket
+Percent Promo Orders,13,0.2520032051282051,Orders
+Average Promo Value,13,77.0,Promotion
+Basket Size of Promo Orders,13,521.0,Orders
+Basket Size of Non-Promo Orders,13,484.5,Orders
+Average Delivery TIme (mins),13,40.52,Other
+Average Delivery Distance,13,4.0,Other
+Total Orders,14,123450.0,Orders
+Completed Orders,14,121100.0,Orders
+Basket Size,14,518.0424442609415,Basket
+Percent Promo Orders,14,0.24194880264244426,Orders
+Average Promo Value,14,75.0,Promotion
+Basket Size of Promo Orders,14,547.0,Orders
+Basket Size of Non-Promo Orders,14,508.8,Orders
+Average Delivery TIme (mins),14,41.99,Other
+Average Delivery Distance,14,3.83,Other
+Total Orders,15,94750.0,Orders
+Completed Orders,15,93400.0,Orders
+Basket Size,15,473.2640256959314,Basket
+Percent Promo Orders,15,0.13276231263383298,Orders
+Average Promo Value,15,80.0,Promotion
+Basket Size of Promo Orders,15,536.0,Orders
+Basket Size of Non-Promo Orders,15,463.65999999999997,Orders
+Average Delivery TIme (mins),15,41.83,Other
+Average Delivery Distance,15,3.9,Other
+Total Orders,16,99650.0,Orders
+Completed Orders,16,98550.0,Orders
+Basket Size,16,484.357199391172,Basket
+Percent Promo Orders,16,0.15220700152207,Orders
+Average Promo Value,16,77.0,Promotion
+Basket Size of Promo Orders,16,524.0,Orders
+Basket Size of Non-Promo Orders,16,477.24,Orders
+Average Delivery TIme (mins),16,43.1,Other
+Average Delivery Distance,16,3.96,Other
+Total Orders,17,98550.0,Orders
+Completed Orders,17,97450.0,Orders
+Basket Size,17,470.79361210877374,Basket
+Percent Promo Orders,17,0.1539250897896357,Orders
+Average Promo Value,17,76.0,Promotion
+Basket Size of Promo Orders,17,526.0,Orders
+Basket Size of Non-Promo Orders,17,460.75,Orders
+Average Delivery TIme (mins),17,43.21,Other
+Average Delivery Distance,17,3.85,Other
+Total Orders,18,99150.0,Orders
+Completed Orders,18,97950.0,Orders
+Basket Size,18,479.4170137825421,Basket
+Percent Promo Orders,18,0.1388463501786626,Orders
+Average Promo Value,18,84.0,Promotion
+Basket Size of Promo Orders,18,523.0,Orders
+Basket Size of Non-Promo Orders,18,472.39,Orders
+Average Delivery TIme (mins),18,42.41,Other
+Average Delivery Distance,18,3.92,Other
+Total Orders,19,103650.0,Orders
+Completed Orders,19,102000.0,Orders
+Basket Size,19,476.4607843137255,Basket
+Percent Promo Orders,19,0.14215686274509803,Orders
+Average Promo Value,19,79.0,Promotion
+Basket Size of Promo Orders,19,542.0,Orders
+Basket Size of Non-Promo Orders,19,465.59999999999997,Orders
+Average Delivery TIme (mins),19,43.11,Other
+Average Delivery Distance,19,3.82,Other
+Total Orders,20,110550.0,Orders
+Completed Orders,20,109550.0,Orders
+Basket Size,20,482.0456960292104,Basket
+Percent Promo Orders,20,0.16202647193062528,Orders
+Average Promo Value,20,73.0,Promotion
+Basket Size of Promo Orders,20,537.0,Orders
+Basket Size of Non-Promo Orders,20,471.41999999999996,Orders
+Average Delivery TIme (mins),20,42.75,Other
+Average Delivery Distance,20,3.91,Other
+Total Orders,21,104100.0,Orders
+Completed Orders,21,102550.0,Orders
+Basket Size,21,483.3068746952706,Basket
+Percent Promo Orders,21,0.14188200877620674,Orders
+Average Promo Value,21,83.0,Promotion
+Basket Size of Promo Orders,21,520.0,Orders
+Basket Size of Non-Promo Orders,21,477.24,Orders
+Average Delivery TIme (mins),21,41.22,Other
+Average Delivery Distance,21,3.83,Other
+Total Orders,22,108700.0,Orders
+Completed Orders,22,107400.0,Orders
+Basket Size,22,500.0534823091248,Basket
+Percent Promo Orders,22,0.23277467411545624,Orders
+Average Promo Value,22,76.0,Promotion
+Basket Size of Promo Orders,22,547.0,Orders
+Basket Size of Non-Promo Orders,22,485.81,Orders
+Average Delivery TIme (mins),22,41.86,Other
+Average Delivery Distance,22,3.74,Other
+Total Orders,23,114300.0,Orders
+Completed Orders,23,112350.0,Orders
+Basket Size,23,507.9354650645305,Basket
+Percent Promo Orders,23,0.2919448153093013,Orders
+Average Promo Value,23,80.0,Promotion
+Basket Size of Promo Orders,23,542.0,Orders
+Basket Size of Non-Promo Orders,23,493.89,Orders
+Average Delivery TIme (mins),23,42.33,Other
+Average Delivery Distance,23,3.78,Other
+Total Orders,24,115750.0,Orders
+Completed Orders,24,114000.0,Orders
+Basket Size,24,495.21359210526316,Basket
+Percent Promo Orders,24,0.30394736842105263,Orders
+Average Promo Value,24,75.0,Promotion
+Basket Size of Promo Orders,24,526.0,Orders
+Basket Size of Non-Promo Orders,24,481.77,Orders
+Average Delivery TIme (mins),24,40.91,Other
+Average Delivery Distance,24,3.87,Other
+Total Orders,25,117350.0,Orders
+Completed Orders,25,115600.0,Orders
+Basket Size,25,498.24679930795844,Basket
+Percent Promo Orders,25,0.2789792387543253,Orders
+Average Promo Value,25,79.0,Promotion
+Basket Size of Promo Orders,25,533.0,Orders
+Basket Size of Non-Promo Orders,25,484.8,Orders
+Average Delivery TIme (mins),25,42.82,Other
+Average Delivery Distance,25,3.75,Other
+Total Orders,26,120700.0,Orders
+Completed Orders,26,119350.0,Orders
+Basket Size,26,498.1507331378299,Basket
+Percent Promo Orders,26,0.3020527859237537,Orders
+Average Promo Value,26,74.0,Promotion
+Basket Size of Promo Orders,26,529.0,Orders
+Basket Size of Non-Promo Orders,26,484.8,Orders
+Average Delivery TIme (mins),26,43.02,Other
+Average Delivery Distance,26,3.8,Other
+Total Orders,27,130800.0,Orders
+Completed Orders,27,129250.0,Orders
+Basket Size,27,511.30130754352035,Basket
+Percent Promo Orders,27,0.3121856866537718,Orders
+Average Promo Value,27,77.0,Promotion
+Basket Size of Promo Orders,27,544.0,Orders
+Basket Size of Non-Promo Orders,27,496.46000000000004,Orders
+Average Delivery TIme (mins),27,42.52,Other
+Average Delivery Distance,27,3.75,Other
+Total Orders,28,124050.0,Orders
+Completed Orders,28,122050.0,Orders
+Basket Size,28,498.7564768537485,Basket
+Percent Promo Orders,28,0.2519459238017206,Orders
+Average Promo Value,28,76.0,Promotion
+Basket Size of Promo Orders,28,532.0,Orders
+Basket Size of Non-Promo Orders,28,487.56,Orders
+Average Delivery TIme (mins),28,41.77,Other
+Average Delivery Distance,28,3.75,Other

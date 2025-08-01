@@ -1,0 +1,253 @@
+Metric,Day,Value,Metric_Type,Promo
+Total Orders,1,94817.0,Orders,No Promo
+Completed Orders,1,93386.0,Orders,No Promo
+Basket Size,1,494.7599318955732,Basket,No Promo
+Percent Promo Orders,1,0.1129398410896708,Orders,No Promo
+Average Promo Value,1,84.0,Promotion,No Promo
+Basket Size of Promo Orders,1,540.0,Orders,No Promo
+Basket Size of Non-Promo Orders,1,489.0,Orders,No Promo
+Average Delivery TIme (mins),1,42.04,Other,No Promo
+Average Delivery Distance,1,3.99,Other,No Promo
+Total Orders,2,95700.0,Orders,No Promo
+Completed Orders,2,94750.0,Orders,No Promo
+Basket Size,2,484.7836411609499,Basket,No Promo
+Percent Promo Orders,2,0.1319261213720316,Orders,No Promo
+Average Promo Value,2,75.0,Promotion,No Promo
+Basket Size of Promo Orders,2,536.0,Orders,No Promo
+Basket Size of Non-Promo Orders,2,477.0,Orders,No Promo
+Average Delivery TIme (mins),2,42.8,Other,No Promo
+Average Delivery Distance,2,3.68,Other,No Promo
+Total Orders,3,93350.0,Orders,No Promo
+Completed Orders,3,91950.0,Orders,No Promo
+Basket Size,3,495.768352365416,Basket,No Promo
+Percent Promo Orders,3,0.1141924959216965,Orders,No Promo
+Average Promo Value,3,79.0,Promotion,No Promo
+Basket Size of Promo Orders,3,525.0,Orders,No Promo
+Basket Size of Non-Promo Orders,3,492.0,Orders,No Promo
+Average Delivery TIme (mins),3,42.72,Other,No Promo
+Average Delivery Distance,3,3.84,Other,No Promo
+Total Orders,4,94000.0,Orders,No Promo
+Completed Orders,4,92400.0,Orders,No Promo
+Basket Size,4,482.4285714285714,Basket,No Promo
+Percent Promo Orders,4,0.119047619047619,Orders,No Promo
+Average Promo Value,4,84.0,Promotion,No Promo
+Basket Size of Promo Orders,4,530.0,Orders,No Promo
+Basket Size of Non-Promo Orders,4,476.0,Orders,No Promo
+Average Delivery TIme (mins),4,41.88,Other,No Promo
+Average Delivery Distance,4,4.0,Other,No Promo
+Total Orders,5,99050.0,Orders,No Promo
+Completed Orders,5,97150.0,Orders,No Promo
+Basket Size,5,497.8306742151312,Basket,No Promo
+Percent Promo Orders,5,0.1219763252702007,Orders,No Promo
+Average Promo Value,5,77.0,Promotion,No Promo
+Basket Size of Promo Orders,5,547.0,Orders,No Promo
+Basket Size of Non-Promo Orders,5,491.0,Orders,No Promo
+Average Delivery TIme (mins),5,40.97,Other,No Promo
+Average Delivery Distance,5,3.8,Other,No Promo
+Total Orders,6,102250.0,Orders,No Promo
+Completed Orders,6,101450.0,Orders,No Promo
+Basket Size,6,496.81172991621486,Basket,No Promo
+Percent Promo Orders,6,0.1320847708230655,Orders,No Promo
+Average Promo Value,6,84.0,Promotion,No Promo
+Basket Size of Promo Orders,6,535.0,Orders,No Promo
+Basket Size of Non-Promo Orders,6,491.0,Orders,No Promo
+Average Delivery TIme (mins),6,41.69,Other,No Promo
+Average Delivery Distance,6,4.0,Other,No Promo
+Total Orders,7,99350.0,Orders,No Promo
+Completed Orders,7,97650.0,Orders,No Promo
+Basket Size,7,503.8241167434716,Basket,No Promo
+Percent Promo Orders,7,0.1121351766513056,Orders,No Promo
+Average Promo Value,7,78.0,Promotion,No Promo
+Basket Size of Promo Orders,7,544.0,Orders,No Promo
+Basket Size of Non-Promo Orders,7,498.75,Orders,No Promo
+Average Delivery TIme (mins),7,42.74,Other,No Promo
+Average Delivery Distance,7,3.7,Other,No Promo
+Total Orders,8,107650.0,Orders,Php 100 off (min basket 400)
+Completed Orders,8,105700.0,Orders,Php 100 off (min basket 400)
+Basket Size,8,509.8822327341533,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,8,0.2128666035950804,Orders,Php 100 off (min basket 400)
+Average Promo Value,8,82.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,8,534.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,8,503.36,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),8,41.25,Other,Php 100 off (min basket 400)
+Average Delivery Distance,8,3.75,Other,Php 100 off (min basket 400)
+Total Orders,9,119800.0,Orders,Php 100 off (min basket 400)
+Completed Orders,9,117500.0,Orders,Php 100 off (min basket 400)
+Basket Size,9,500.2105276595745,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,9,0.242127659574468,Orders,Php 100 off (min basket 400)
+Average Promo Value,9,80.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,9,543.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,9,486.54,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),9,40.36,Other,Php 100 off (min basket 400)
+Average Delivery Distance,9,3.76,Other,Php 100 off (min basket 400)
+Total Orders,10,115850.0,Orders,Php 100 off (min basket 400)
+Completed Orders,10,114000.0,Orders,Php 100 off (min basket 400)
+Basket Size,10,510.06733333333335,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,10,0.2640350877192982,Orders,Php 100 off (min basket 400)
+Average Promo Value,10,77.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,10,533.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,10,501.84,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),10,42.87,Other,Php 100 off (min basket 400)
+Average Delivery Distance,10,3.67,Other,Php 100 off (min basket 400)
+Total Orders,11,112000.0,Orders,Php 100 off (min basket 400)
+Completed Orders,11,110900.0,Orders,Php 100 off (min basket 400)
+Basket Size,11,505.40169522091975,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,11,0.2191163210099188,Orders,Php 100 off (min basket 400)
+Average Promo Value,11,78.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,11,529.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,11,498.78,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),11,42.76,Other,Php 100 off (min basket 400)
+Average Delivery Distance,11,3.98,Other,Php 100 off (min basket 400)
+Total Orders,12,122450.0,Orders,Php 100 off (min basket 400)
+Completed Orders,12,121450.0,Orders,Php 100 off (min basket 400)
+Basket Size,12,498.5146150679292,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,12,0.2721284479209551,Orders,Php 100 off (min basket 400)
+Average Promo Value,12,77.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,12,536.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,12,484.5,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),12,40.76,Other,Php 100 off (min basket 400)
+Average Delivery Distance,12,3.84,Other,Php 100 off (min basket 400)
+Total Orders,13,126950.0,Orders,Php 100 off (min basket 400)
+Completed Orders,13,124800.0,Orders,Php 100 off (min basket 400)
+Basket Size,13,493.6981169871795,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,13,0.2520032051282051,Orders,Php 100 off (min basket 400)
+Average Promo Value,13,77.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,13,521.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,13,484.5,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),13,40.52,Other,Php 100 off (min basket 400)
+Average Delivery Distance,13,4.0,Other,Php 100 off (min basket 400)
+Total Orders,14,123450.0,Orders,Php 100 off (min basket 400)
+Completed Orders,14,121100.0,Orders,Php 100 off (min basket 400)
+Basket Size,14,518.0424442609415,Basket,Php 100 off (min basket 400)
+Percent Promo Orders,14,0.2419488026424442,Orders,Php 100 off (min basket 400)
+Average Promo Value,14,75.0,Promotion,Php 100 off (min basket 400)
+Basket Size of Promo Orders,14,547.0,Orders,Php 100 off (min basket 400)
+Basket Size of Non-Promo Orders,14,508.8,Orders,Php 100 off (min basket 400)
+Average Delivery TIme (mins),14,41.99,Other,Php 100 off (min basket 400)
+Average Delivery Distance,14,3.83,Other,Php 100 off (min basket 400)
+Total Orders,15,94750.0,Orders,No Promo
+Completed Orders,15,93400.0,Orders,No Promo
+Basket Size,15,473.2640256959314,Basket,No Promo
+Percent Promo Orders,15,0.1327623126338329,Orders,No Promo
+Average Promo Value,15,80.0,Promotion,No Promo
+Basket Size of Promo Orders,15,536.0,Orders,No Promo
+Basket Size of Non-Promo Orders,15,463.66,Orders,No Promo
+Average Delivery TIme (mins),15,41.83,Other,No Promo
+Average Delivery Distance,15,3.9,Other,No Promo
+Total Orders,16,99650.0,Orders,No Promo
+Completed Orders,16,98550.0,Orders,No Promo
+Basket Size,16,484.357199391172,Basket,No Promo
+Percent Promo Orders,16,0.15220700152207,Orders,No Promo
+Average Promo Value,16,77.0,Promotion,No Promo
+Basket Size of Promo Orders,16,524.0,Orders,No Promo
+Basket Size of Non-Promo Orders,16,477.24,Orders,No Promo
+Average Delivery TIme (mins),16,43.1,Other,No Promo
+Average Delivery Distance,16,3.96,Other,No Promo
+Total Orders,17,98550.0,Orders,No Promo
+Completed Orders,17,97450.0,Orders,No Promo
+Basket Size,17,470.79361210877374,Basket,No Promo
+Percent Promo Orders,17,0.1539250897896357,Orders,No Promo
+Average Promo Value,17,76.0,Promotion,No Promo
+Basket Size of Promo Orders,17,526.0,Orders,No Promo
+Basket Size of Non-Promo Orders,17,460.75,Orders,No Promo
+Average Delivery TIme (mins),17,43.21,Other,No Promo
+Average Delivery Distance,17,3.85,Other,No Promo
+Total Orders,18,99150.0,Orders,No Promo
+Completed Orders,18,97950.0,Orders,No Promo
+Basket Size,18,479.4170137825421,Basket,No Promo
+Percent Promo Orders,18,0.1388463501786626,Orders,No Promo
+Average Promo Value,18,84.0,Promotion,No Promo
+Basket Size of Promo Orders,18,523.0,Orders,No Promo
+Basket Size of Non-Promo Orders,18,472.39,Orders,No Promo
+Average Delivery TIme (mins),18,42.41,Other,No Promo
+Average Delivery Distance,18,3.92,Other,No Promo
+Total Orders,19,103650.0,Orders,No Promo
+Completed Orders,19,102000.0,Orders,No Promo
+Basket Size,19,476.4607843137255,Basket,No Promo
+Percent Promo Orders,19,0.142156862745098,Orders,No Promo
+Average Promo Value,19,79.0,Promotion,No Promo
+Basket Size of Promo Orders,19,542.0,Orders,No Promo
+Basket Size of Non-Promo Orders,19,465.6,Orders,No Promo
+Average Delivery TIme (mins),19,43.11,Other,No Promo
+Average Delivery Distance,19,3.82,Other,No Promo
+Total Orders,20,110550.0,Orders,No Promo
+Completed Orders,20,109550.0,Orders,No Promo
+Basket Size,20,482.0456960292104,Basket,No Promo
+Percent Promo Orders,20,0.1620264719306252,Orders,No Promo
+Average Promo Value,20,73.0,Promotion,No Promo
+Basket Size of Promo Orders,20,537.0,Orders,No Promo
+Basket Size of Non-Promo Orders,20,471.42,Orders,No Promo
+Average Delivery TIme (mins),20,42.75,Other,No Promo
+Average Delivery Distance,20,3.91,Other,No Promo
+Total Orders,21,104100.0,Orders,No Promo
+Completed Orders,21,102550.0,Orders,No Promo
+Basket Size,21,483.3068746952706,Basket,No Promo
+Percent Promo Orders,21,0.1418820087762067,Orders,No Promo
+Average Promo Value,21,83.0,Promotion,No Promo
+Basket Size of Promo Orders,21,520.0,Orders,No Promo
+Basket Size of Non-Promo Orders,21,477.24,Orders,No Promo
+Average Delivery TIme (mins),21,41.22,Other,No Promo
+Average Delivery Distance,21,3.83,Other,No Promo
+Total Orders,22,108700.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,22,107400.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,22,500.0534823091248,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,22,0.2327746741154562,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,22,76.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,22,547.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,22,485.81,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),22,41.86,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,22,3.74,Other,"Free Delivery (Php 59, min basket 550)"
+Total Orders,23,114300.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,23,112350.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,23,507.9354650645305,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,23,0.2919448153093013,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,23,80.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,23,542.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,23,493.89,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),23,42.33,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,23,3.78,Other,"Free Delivery (Php 59, min basket 550)"
+Total Orders,24,115750.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,24,114000.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,24,495.2135921052632,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,24,0.3039473684210526,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,24,75.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,24,526.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,24,481.77,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),24,40.91,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,24,3.87,Other,"Free Delivery (Php 59, min basket 550)"
+Total Orders,25,117350.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,25,115600.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,25,498.2467993079584,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,25,0.2789792387543253,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,25,79.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,25,533.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,25,484.8,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),25,42.82,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,25,3.75,Other,"Free Delivery (Php 59, min basket 550)"
+Total Orders,26,120700.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,26,119350.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,26,498.1507331378299,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,26,0.3020527859237537,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,26,74.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,26,529.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,26,484.8,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),26,43.02,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,26,3.8,Other,"Free Delivery (Php 59, min basket 550)"
+Total Orders,27,130800.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,27,129250.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,27,511.3013075435204,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,27,0.3121856866537718,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,27,77.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,27,544.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,27,496.46,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),27,42.52,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,27,3.75,Other,"Free Delivery (Php 59, min basket 550)"
+Total Orders,28,124050.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Completed Orders,28,122050.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size,28,498.7564768537485,Basket,"Free Delivery (Php 59, min basket 550)"
+Percent Promo Orders,28,0.2519459238017206,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Promo Value,28,76.0,Promotion,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Promo Orders,28,532.0,Orders,"Free Delivery (Php 59, min basket 550)"
+Basket Size of Non-Promo Orders,28,487.56,Orders,"Free Delivery (Php 59, min basket 550)"
+Average Delivery TIme (mins),28,41.77,Other,"Free Delivery (Php 59, min basket 550)"
+Average Delivery Distance,28,3.75,Other,"Free Delivery (Php 59, min basket 550)"
